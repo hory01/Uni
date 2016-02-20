@@ -9,7 +9,7 @@ namespace BasicAlgorithms
     class RecursiveSort
     {
 
-        //TODO: Comments...more comments...
+        //TODO: Comments...more comments....
 
         #region MergeSort
         public void MergeSort(int[] methodArray, int left, int right)
